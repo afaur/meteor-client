@@ -3,24 +3,13 @@ This project encapsulate the original [Meteor](https://www.meteor.com/) client l
 
 The followed packages are included:
    * [Meteor] (https://github.com/eface2face/meteor-core)
-   * [Meteor.Base64] (https://github.com/eface2face/meteor-base64)
-   * [Meteor.EJSON](https://github.com/eface2face/meteor-ejson)
-   * [Meteor.Random](https://github.com/eface2face/meteor-random)
-   * [Meteor.IdMap](https://github.com/eface2face/meteor-id-map)
-   * [Meteor.OrderedDict](https://github.com/eface2face/meteor-ordered-dict)
    * [Meteor.Tracker](https://github.com/eface2face/meteor-tracker)
-   * [Meteor.ObserveSequence](https://github.com/eface2face/meteor-observe-sequence)
-   * [Meteor.HTMLJS](https://github.com/eface2face/meteor-htmljs)
-   * [Meteor.HMLTools](https://github.com/eface2face/meteor-html-tools)
    * [Meteor.ReactiveVar](https://github.com/eface2face/meteor-reactive-var)
    * [Meteor.Blaze](https://github.com/eface2face/meteor-blaze)
    * [Meteor.BlazeTools](https://github.com/eface2face/meteor-blaze-tools)
    * [Meteor.Templating](https://github.com/eface2face/meteor-templating)
    * [Meteor.Spacebars](https://github.com/eface2face/meteor-spacebars)
    * [Meteor.SpacebarsCompiler](https://github.com/eface2face/meteor-spacebars-compiler)
-
-Also it include the following custom packages:
-   * [Meteor.ReactiveObjectMap](https://github.com/eface2face/meteor-reactive-object-map)
 
 ## Dependencies
 This project requires jQuery and underscore or lodash.
